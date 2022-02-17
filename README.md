@@ -1,2 +1,2 @@
-# gOperator
-a kubernetes operator in golang
+# hello-operator2
+Tutorial Kubernetes Operator
