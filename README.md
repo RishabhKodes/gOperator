@@ -1,2 +1,3 @@
-# hello-operator2
-Tutorial Kubernetes Operator
+# gOperator
+
+A k8s operator.
